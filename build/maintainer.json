@@ -80,6 +80,29 @@
     "/19lou/:city?": [
         "nczitzk"
     ],
+    "/1point3acres/blog/:category?": [
+        "nczitzk"
+    ],
+    "/1point3acres/category/:id?/:type?/:order?": [
+        "nczitzk"
+    ],
+    "/1point3acres/offer/:year?/:major?/:school?": [
+        "NavePnow"
+    ],
+    "/1point3acres/post/:type?/:order?": [
+        "NavePnow",
+        "DIYgod",
+        "nczitzk"
+    ],
+    "/1point3acres/section/:id?/:type?/:order?": [
+        "nczitzk"
+    ],
+    "/1point3acres/user/:id/posts": [
+        "Maecenas"
+    ],
+    "/1point3acres/user/:id/threads": [
+        "Maecenas"
+    ],
     "/2cycd/:fid/:sort?": [
         "shelken"
     ],
@@ -1650,6 +1673,12 @@
     "/fosshub/:id": [
         "nczitzk"
     ],
+    "/freecomputerbooks/": [
+        "cubroe"
+    ],
+    "/freecomputerbooks/:category": [
+        "cubroe"
+    ],
     "/freewechat/profile/:id": [
         "TonyRL"
     ],
@@ -2442,6 +2471,9 @@
     "/ieee/journal/:journal/recent/:sortType?": [
         "Derekmini",
         "auto-bot-ty"
+    ],
+    "/ieee/journal/:journal/earlyaccess/:sortType?": [
+        "5upernova-heng"
     ],
     "/ieee-security/security-privacy": [
         "ZeddYu"
@@ -3305,6 +3337,12 @@
     "/newmuseum/exhibitions": [
         "chazeon"
     ],
+    "/newrank/douyin/:dyid": [
+        "lessmoe"
+    ],
+    "/newrank/wechat/:wxid": [
+        "lessmoe"
+    ],
     "/news/whxw": [
         "nczitzk"
     ],
@@ -4120,6 +4158,9 @@
     "/saraba1st/thread/:tid": [
         "zengxs"
     ],
+    "/sass/gs/:type": [
+        "yanbot-team"
+    ],
     "/science/cover": [
         "y9c",
         "TonyRL"
@@ -4230,6 +4271,9 @@
     "/sensortower/blog/:language?": [
         "nczitzk"
     ],
+    "/setn/:category?": [
+        "nczitzk"
+    ],
     "/shiep/:type/:id?": [
         "gumibea",
         "TeamSUEP"
@@ -4338,6 +4382,12 @@
     "/soundofhope/:channel/:id": [
         "Fatpandac"
     ],
+    "/southcn/nfapp/column/:column?": [
+        "TimWu007"
+    ],
+    "/southcn/nfapp/reporter/:reporter": [
+        "TimWu007"
+    ],
     "/spotify/artist/:id": [
         "outloudvi"
     ],
@@ -4421,6 +4471,9 @@
     "/stcn/:id?": [
         "nczitzk"
     ],
+    "/stdaily/digitalpaper": [
+        "lyqluis"
+    ],
     "/stheadline/std/realtime/:category*": [
         "TonyRL"
     ],
@@ -4432,6 +4485,9 @@
     ],
     "/studygolang/jobs": [
         "CcccFz"
+    ],
+    "/studygolang/weekly": [
+        "Weilet"
     ],
     "/subhd/sub/:category?": [
         "nczitzk"
@@ -6078,11 +6134,6 @@
     "/bupt/portal": [],
     "/bupt/news": [],
     "/bupt/funbox": [],
-    "/1point3acres/blog/:category?": [],
-    "/1point3acres/user/:id/threads": [],
-    "/1point3acres/user/:id/posts": [],
-    "/1point3acres/offer/:year?/:major?/:school?": [],
-    "/1point3acres/post/:category": [],
     "/gdoujwc": [],
     "/gaoqingla/:tag?": [],
     "/mlhang": [],
@@ -6544,7 +6595,6 @@
     "/amazfitwatchfaces/search/:model/:keyword?/:sortBy?": [],
     "/missevan/drama/latest": [],
     "/missevan/drama/:id": [],
-    "/go-weekly": [],
     "/popiask/:sharecode/:pagesize?": [],
     "/tapechat/questionbox/:sharecode/:pagesize?": [],
     "/amd/graphicsdrivers/:id/:rid?": [],
@@ -6567,8 +6617,6 @@
     "/touhougarakuta/:language/:type": [],
     "/liequtv/room/:id": [],
     "/bwu/news": [],
-    "/newrank/wechat/:wxid": [],
-    "/newrank/douyin/:dyid": [],
     "/manxiaosi/book/:id": [],
     "/jlu/oa": [],
     "/hfut/tzgg": [],
